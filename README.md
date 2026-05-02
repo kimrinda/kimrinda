@@ -33,7 +33,6 @@
 
 </div>
 
----
 
 <a id="about"></a>
 ## ❖ &nbsp; About
@@ -50,7 +49,6 @@ const kimrinda = {
 
 I build software the way a craftsman builds furniture — quietly, deliberately, and with respect for the people who'll use it. I care about how things feel as much as how they work. I prefer small, sharp tools over bloated frameworks, and I believe a great codebase reads like a story you can finish.
 
----
 
 <a id="stack"></a>
 ## ❖ &nbsp; Tech Stack
@@ -59,81 +57,66 @@ I build software the way a craftsman builds furniture — quietly, deliberately,
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,java,cpp,bash&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,kotlin,dart,bash&theme=dark" alt="languages" />
 
 **Frontend & Design**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,vite,figma,html,css&theme=dark" alt="frontend" />
 
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,deno,bun,fastapi,postgres,redis,mongodb,graphql,prisma&theme=dark" alt="backend" />
-
-**Infra & Tooling**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,nginx,linux,git,github,githubactions&theme=dark" alt="infra" />
-
 </div>
 
----
 
-<a id="projects"></a>
-## ❖ &nbsp; Featured Projects
+<!-- <a id="projects"></a>
+## ❖ &nbsp; Featured Projects -->
 
 <div align="center">
 
 <!-- Replace REPO_NAME placeholders with your real repos. -->
-<table>
+<!-- <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/kimrinda/REPO_NAME_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimrinda&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" alt="project 1" />
+      <a href="https://github.com/kimrinda/nk-cli">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimrinda&repo=nk-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" alt="project 1" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kimrinda/REPO_NAME_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimrinda&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" alt="project 2" />
+      <a href="https://github.com/kimrinda/nk-sites">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimrinda&repo=nk-sites&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" alt="project 2" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/kimrinda/REPO_NAME_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimrinda&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" alt="project 3" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kimrinda/REPO_NAME_4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimrinda&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" alt="project 4" />
+      <a href="https://github.com/kimrinda/cloudflare-r2-cli">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimrinda&repo=cloudflare-r2-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" alt="project 3" />
       </a>
     </td>
   </tr>
 </table>
 
-</div>
+</div> -->
 
----
+
 
 <a id="analytics"></a>
 ## ❖ &nbsp; Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kimrinda&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&ring_color=38BDF8" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=kimrinda&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="streak" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=kimrinda&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&ring_color=38BDF8" alt="stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=kimrinda&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="streak" /> -->
 
-<br/>
+<!-- <br/> -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimrinda&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=cbd5e1" alt="top langs" />
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=kimrinda&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="trophies" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimrinda&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=cbd5e1" alt="top langs" />
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=kimrinda&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="trophies" /> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimrinda&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=0EA5E9" alt="activity graph" width="98%" />
 
 </div>
 
----
 
 ## ❖ &nbsp; Currently
 
@@ -160,7 +143,6 @@ I build software the way a craftsman builds furniture — quietly, deliberately,
   </tr>
 </table>
 
----
 
 <a id="contact"></a>
 ## ❖ &nbsp; Connect
@@ -186,7 +168,7 @@ I build software the way a craftsman builds furniture — quietly, deliberately,
 
 </div>
 
----
+
 
 ## ❖ &nbsp; Philosophy
 
@@ -200,7 +182,6 @@ I build software the way a craftsman builds furniture — quietly, deliberately,
 
 </div>
 
----
 
 <div align="center">
 
@@ -215,9 +196,3 @@ I build software the way a craftsman builds furniture — quietly, deliberately,
 
 </div>
 
-<!--
-  ─────────────────────────────────────────────
-  easter egg: the best code is the one
-  you don't have to write.
-  ─────────────────────────────────────────────
--->
